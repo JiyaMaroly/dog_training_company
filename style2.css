@@ -1,0 +1,54 @@
+    <style>
+      /* CSS styles */
+      body {
+        font-family: Verdana,
+        margin: 0;
+        padding: 0;
+      }
+      header {
+        background-color: #1c2237;
+        color: #fff;
+        padding: 20px;
+      }
+      h1 {
+        margin: 0;
+      }
+      nav {
+        background-color: #556fb5;
+        color: #fff;
+        padding: 10px;
+      }
+      nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      nav li {
+        display: inline-block;
+        margin-right: 10px;
+      }
+      nav a {
+        color: #fff;
+        text-decoration: none;
+        padding: 5px;
+        display: block;
+      }
+      nav a:hover {
+        background-color: #fff;
+        color: #1c2237;
+      }
+      section {
+        padding: 20px;
+        margin: 20px;
+        border: 1px solid #ccc;
+      }
+table {
+font-size:20px
+}
+      footer {
+        background-color: #1c2237;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
+    </style>
